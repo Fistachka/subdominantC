@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>Fistachka</owner>
+  <repo>subdominantC</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
+  <readme>
+    <ru>840f66c2aedb5d48af87500500493ba6f5a3a4ed1bc3cabfb292a1698efd036d</ru>
+    <en>31abb22e19fcb3fd273682e3bbbee11ee75c7d8103f70e5ae4d34245265e17dc</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,4,5,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+</level>
