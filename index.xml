@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>subdominantC</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
-    <ru>5c36a9663312184d8eac19a1aa9368815160439815377d31afb429a7676c1522</ru>
+    <ru>721acb3ce4b4f0401a32b36bea2cd235cd26b0429975219bc37997decc504f7f</ru>
     <en>c013b5ab8fd076df2f7ef749355cf01f27266bc6bf2fdd99683d6857b01b6e0e</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
