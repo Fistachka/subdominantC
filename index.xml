@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>subdominantC</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
-    <ru>721acb3ce4b4f0401a32b36bea2cd235cd26b0429975219bc37997decc504f7f</ru>
+    <ru>5c36a9663312184d8eac19a1aa9368815160439815377d31afb429a7676c1522</ru>
     <en>c013b5ab8fd076df2f7ef749355cf01f27266bc6bf2fdd99683d6857b01b6e0e</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
@@ -53,7 +53,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="4.mp4" size="1287850" type="video/mp4" volume="1">ef1e560433104688cd546cf4bf1d911ae550c2762079034eacec04bac739a303</video>
+    <video name="дорога4.mp4" size="2025255" type="video/mp4" volume="1">0e6ab7f4a85e7d6f03af64b4cc89b2881e2096bed762424d858d6a5a06d10c0a</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
