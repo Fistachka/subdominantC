@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>subdominantC</repo>
-  <version>v1.0.15</version>
+  <version>v1.0.16</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
     <ru>9ba2b544265f3f01281ecd09371794c805d311033d596709805443f4d338f84b</ru>
@@ -32,7 +32,7 @@
       <note number="1" values="18" ticks="16" durationTicks="119" ppq="96" velocity="0.843"/>
       <note number="2" values="5" ticks="116" durationTicks="130" ppq="96" velocity="0.913"/>
       <note number="3" values="5" ticks="195" durationTicks="114" ppq="96" velocity="0.874"/>
-      <note number="4" values="4,18" ticks="293" durationTicks="73" ppq="96" velocity="0.921"/>
+      <note number="4" values="4" ticks="293" durationTicks="73" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="3">
