@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>subdominantC</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
     <ru>9ba2b544265f3f01281ecd09371794c805d311033d596709805443f4d338f84b</ru>
@@ -29,10 +29,10 @@
     <tonalities>1</tonalities>
     <video name="до2.mp4" size="1981554" type="video/mp4" volume="0.25">1893621e5f3a3d8fa47aee9b836508e3fe0e5c93d2c23519b463bf50c3131233</video>
     <notes>
-      <note number="1" values="1" ticks="16" durationTicks="119" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="116" durationTicks="130" ppq="96" velocity="0.913"/>
+      <note number="1" values="18" ticks="16" durationTicks="119" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="116" durationTicks="130" ppq="96" velocity="0.913"/>
       <note number="3" values="5" ticks="195" durationTicks="114" ppq="96" velocity="0.874"/>
-      <note number="4" values="4" ticks="293" durationTicks="73" ppq="96" velocity="0.921"/>
+      <note number="4" values="4,18" ticks="293" durationTicks="73" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -83,8 +83,8 @@
     <notes>
       <note number="1" values="18" ticks="7" durationTicks="98" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="55" durationTicks="92" ppq="96" velocity="0.913"/>
-      <note number="3" values="5" ticks="186" durationTicks="113" ppq="96" velocity="0.874"/>
-      <note number="4" values="4" ticks="233" durationTicks="105" ppq="96" velocity="0.921"/>
+      <note number="3" values="18" ticks="186" durationTicks="113" ppq="96" velocity="0.874"/>
+      <note number="4" values="18" ticks="233" durationTicks="105" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -107,7 +107,7 @@
     <tonalities>1</tonalities>
     <video name="до8.mp4" size="1800429" type="video/mp4" volume="0.25">75a68bf59d0e3df382f50571fcb36bfae5eb131e71ca829bd662efc5c6f417f8</video>
     <notes>
-      <note number="1" values="18" ticks="9" durationTicks="96" ppq="96" velocity="0.843"/>
+      <note number="1" values="5" ticks="9" durationTicks="96" ppq="96" velocity="0.843"/>
       <note number="2" values="4" ticks="60" durationTicks="105" ppq="96" velocity="0.913"/>
       <note number="3" values="5" ticks="189" durationTicks="127" ppq="96" velocity="0.874"/>
       <note number="4" values="1" ticks="238" durationTicks="102" ppq="96" velocity="0.921"/>
